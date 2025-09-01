@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+geopandas
+shapely
+sqlalchemy
+mysql-connector-python
+pymysql
