@@ -1,0 +1,4 @@
+# Language detection overrides
+*.sql linguist-language=SQL
+*.py linguist-language=Python
+*.md linguist-language=Markdown
